@@ -5,6 +5,7 @@ authors = ["Deepak Borania <deepakborania2002@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "A test crate with mini grep as in The Book"
+repository = "https://github.com/deepakborania/minigrep"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
